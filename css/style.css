@@ -54,6 +54,15 @@ img{
     max-width:100%;
 }
 
+.sr-only{
+    width:1px;
+    height:1px;
+    position:absolute;
+    overflow:hidden;
+    clip:rect(0,0,0,0);
+    white-space:nowrap;
+}
+
 a{
     color:inherit;
 }
@@ -140,8 +149,10 @@ nav a:first-child{
     text-align:center;
     color:var(--cor-texto-claro);
     background:
-        linear-gradient(rgba(18,5,31,0.76),rgba(18,5,31,0.78)),
-        url("../assets/images/retrato.jpg") center/cover;
+        linear-gradient(135deg,rgba(18,5,31,0.98) 0%,rgba(38,1,68,0.96) 46%,rgba(83,0,104,0.92) 100%),
+        linear-gradient(90deg,rgba(41,182,200,0.18) 1px,transparent 1px),
+        linear-gradient(0deg,rgba(255,255,255,0.08) 1px,transparent 1px);
+    background-size:auto,72px 72px,72px 72px;
 }
 
 #inicio > *{
@@ -149,10 +160,14 @@ nav a:first-child{
     max-width:860px;
 }
 
-#inicio p:first-child{
-    color:#aef6ff;
-    font-weight:800;
-    letter-spacing:0;
+#inicio .hero-logo{
+    width:min(60vw,330px);
+    min-width:190px;
+    max-width:330px;
+    margin-bottom:30px;
+    border-radius:50%;
+    box-shadow:0 28px 70px rgba(0,0,0,0.38);
+    display:block;
 }
 
 #inicio h2{

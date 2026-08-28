@@ -1,28 +1,28 @@
-# Zeryon - Photo Profile
+# Zeryon — Photo Profile
 
 ## Sobre o projeto
 
-Zeryon - Photo Profile e uma landing page desenvolvida para a Sprint 3 de Front-End Design da Challenge JOVI 2026.
+Zeryon — Photo Profile é uma landing page desenvolvida para a Sprint 3 de Front-End Design da Challenge JOVI 2026.
 
-O projeto apresenta uma proposta para tornar a experiencia da camera do smartphone mais simples, personalizada e alinhada aos interesses de cada usuario.
+O projeto apresenta uma proposta para tornar a experiência da câmera do smartphone mais simples, personalizada e alinhada aos interesses de cada usuário.
 
 ## Problema
 
-Muitos usuarios possuem smartphones com cameras cheias de recursos, mas continuam usando quase sempre o modo automatico por dificuldade em entender modos, configuracoes e situacoes ideais de uso.
+Muitos usuários possuem smartphones com câmeras cheias de recursos, mas continuam utilizando quase sempre o modo automático por dificuldade em entender modos, configurações e situações ideais de uso.
 
-Essa barreira pode limitar estudantes e jovens que usam o smartphone diariamente para estudar, registrar momentos, produzir conteudo, socializar e se expressar visualmente.
+Essa barreira pode limitar estudantes e jovens que utilizam o smartphone diariamente para estudar, registrar momentos, produzir conteúdo, socializar e se expressar visualmente.
 
-## Solucao
+## Solução
 
-A Zeryon organiza a experiencia da camera por meio de perfis fotograficos personalizados.
+A Zeryon organiza a experiência da câmera por meio de perfis fotográficos personalizados.
 
-O usuario responde perguntas sobre preferencias, estilos visuais, cores e contextos de fotografia. A partir dessas respostas, a experiencia pode ser orientada por perfis como paisagem, retrato, animais ou esporte, reduzindo a necessidade de procurar manualmente cada configuracao.
+O usuário responde perguntas sobre preferências, estilos visuais, cores e contextos de fotografia. A partir dessas respostas, a experiência pode ser orientada por perfis como paisagem, retrato, animais ou esporte, reduzindo a necessidade de procurar manualmente cada configuração.
 
-## Publico-alvo
+## Público-alvo
 
-O foco principal da proposta sao estudantes full-time, jovens da Geracao Z e usuarios que utilizam o smartphone todos os dias.
+O foco principal da proposta são estudantes full-time, jovens da Geração Z e usuários que utilizam o smartphone todos os dias.
 
-A solucao e relevante para pessoas que gostam de fotografar, mas nao dominam configuracoes avancadas de camera e acabam recorrendo ao modo automatico na maior parte do tempo.
+A solução é relevante para pessoas que gostam de fotografar, mas não dominam configurações avançadas de câmera e acabam recorrendo ao modo automático na maior parte do tempo.
 
 ## Tecnologias
 
@@ -33,7 +33,6 @@ A solucao e relevante para pessoas que gostam de fotografar, mas nao dominam con
 
 ## Estrutura do projeto
 
-```text
 FrontEnd_Sprint3/
 ├── assets/
 │   └── images/
@@ -46,18 +45,19 @@ FrontEnd_Sprint3/
 ├── index.html
 ├── README.md
 └── INTEGRANTES.TXT
-```
 
 ## Como executar
 
-Abra o arquivo `index.html` em qualquer navegador moderno.
+1. Baixe ou extraia os arquivos do projeto.
+2. Abra a pasta `FrontEnd_Sprint3`.
+3. Abra o arquivo `index.html` em qualquer navegador moderno.
 
-Nao e necessario instalar dependencias, iniciar servidor local ou configurar backend.
+Não é necessário instalar dependências, iniciar servidor local ou configurar backend.
 
 ## Integrantes
 
-- Gabriel Flausino - RM572486
-- Felipe Kenji - RM568739
-- Kelso Oliveira - RM573719
-- Joaquim Gaspardo - RM572208
-- Gustavo Dugatti - RM570932
+- Gabriel Flausino — RM572486
+- Felipe Kenji — RM568739
+- Kelso Oliveira — RM573719
+- Joaquim Gaspardo — RM572208
+- Gustavo Ducatti — RM570932
